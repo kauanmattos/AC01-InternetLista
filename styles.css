@@ -23,11 +23,11 @@ h1{
 
 .concluido {
     text-decoration: line-through;
-    color: gray; /* opcional: muda a cor do texto para cinza */
+    color:green; /* opcional: muda a cor do texto para cinza */
 }
 
 #adicionar{
-    padding: 5px;
+    padding: 3px;
     color: white;
     background-color: rgb(60, 60, 60);
     font-weight: 500;
@@ -36,5 +36,5 @@ h1{
 }
 
 #adicionarTarefa::placeholder{
-    text-align: center;
+    padding-left: 5px;
 }
