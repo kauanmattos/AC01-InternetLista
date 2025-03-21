@@ -28,11 +28,4 @@ document.getElementById('adicionar').addEventListener('click', function () {
     inputTarefa.value = ""
     inputTarefa.focus();
 })
-function avisoAlerta(){
-    const aviso = document.getElementById('aviso');
-
-    if()
-
-
-}
 
