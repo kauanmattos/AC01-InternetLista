@@ -23,7 +23,7 @@ h1{
 
 .concluido {
     text-decoration: line-through;
-    color:green; /* opcional: muda a cor do texto para cinza */
+    color:green; 
 }
 
 #adicionar{
