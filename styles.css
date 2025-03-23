@@ -38,3 +38,11 @@ h1{
 #adicionarTarefa::placeholder{
     padding-left: 5px;
 }
+
+.concluido {
+    text-decoration: line-through;
+    color: grey
+}
+button {
+    margin-left: 10px;
+}
