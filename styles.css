@@ -35,10 +35,6 @@ h1{
     cursor: pointer;
 }
 
-#adicionarTarefa::placeholder{
-    padding-left: 5px;
-}
-
 .concluido {
     text-decoration: line-through;
     color: grey
